@@ -1,1 +1,1 @@
-# deep-reinsurance
+# reinsurance-with-neural-networks
